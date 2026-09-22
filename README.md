@@ -72,6 +72,11 @@ A documentation review also identified a gateway/interface inconsistency in the 
 
 The repository preserves the original Packet Tracer project and project documentation. The network was built for academic routing and connectivity testing; the portfolio avoids inventing command output that is not preserved in the source material.
 
+## Documentation
+
+- [Architecture notes](./docs/architecture.md)
+- [Network troubleshooting playbook](./docs/troubleshooting-playbook.md)
+
 ## Repository contents
 
 - `NETWORK PROJECT.pkt` — Cisco Packet Tracer project
