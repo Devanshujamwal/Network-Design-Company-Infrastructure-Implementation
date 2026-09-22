@@ -6,7 +6,7 @@
 
 A multi-site Cisco Packet Tracer project covering **IPv4/IPv6 addressing, VLSM, VLANs, OSPF, DHCP, NAT, DNS, and structured troubleshooting**.
 
-**Portfolio case study:** https://devanshujamwal.github.io/Devanshujamwal/projects/enterprise-network/
+**Portfolio case study:** https://devanshujamwal.github.io/projects/enterprise-network/
 
 ## At a glance
 
@@ -76,4 +76,4 @@ If I extend this project, I would add sanitized router/switch configuration expo
 
 ---
 **Devanshu Jamwal** · IT Support · Systems · Networking · Cloud  
-[Portfolio](https://devanshujamwal.github.io/Devanshujamwal/) · [GitHub Profile](https://github.com/Devanshujamwal)
+[Portfolio](https://devanshujamwal.github.io/) · [GitHub Profile](https://github.com/Devanshujamwal)
